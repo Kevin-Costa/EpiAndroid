@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.destan.epiandroid.MainActivity" >
+    <item android:id="@+id/Marks"
+        android:title="@string/button_menu_grade" />
+    <item android:id="@+id/Planning"
+        android:title="@string/button_menu_planning" />
+    <item android:id="@+id/Project"
+        android:title="@string/button_menu_project" />
+    <item android:id="@+id/Module"
+        android:title="@string/button_menu_module" />
+</menu>

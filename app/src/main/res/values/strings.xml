@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EpiAndroid</string>
+    <string name="button_planning">View your planning</string>
+    <string name="button_all_projects">View your projects</string>
+    <string name="button_next_planning_menu">Next</string>
+    <string name="button_prev_planning_menu">Previous</string>
+    <string name="button_menu_grade">Grade</string>
+    <string name="button_menu_planning">Planning</string>
+    <string name="button_menu_project">Projects</string>
+    <string name="button_menu_module">Modules</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="sign_button">Sign In</string>
+    <string name="login_title">Login</string>
+</resources>
